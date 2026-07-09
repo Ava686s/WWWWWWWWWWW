@@ -39,6 +39,8 @@
 
 <h1>Welcome</h1>
 
+<!-- https://imgur.com/a/GtfjaIq -->
+
 <div id="display">00:00:00.0</div>
 
 <script>
